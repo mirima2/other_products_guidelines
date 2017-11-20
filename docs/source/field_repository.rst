@@ -21,7 +21,9 @@ This element contains the name of the research product repository.
    </publisher>
 
 
-..code-block:: xml   
+.. code-block:: xml   
+   :linenos:
+  
   <publisher>
      protocols.io
    </publisher>

@@ -6,7 +6,11 @@
 
 ``datacite:relatedIdentifier``
 
-Identifiers of the community for which the research product is of interest. These must be globally unique identifiers and must be expressed using the format: info:eu-repo/OAC/community_name/sub_community_name/...
+Identifiers of the community for which the research product is of interest. 
+
+.. note::
+
+   These must be globally unique identifiers and must be expressed using the format: ``info:eu-repo/OAC/community_name/sub_community_name/...``
 
 15.1 type (M)
 -------------------
@@ -23,4 +27,6 @@ Since we are talking about a community, the relationship mast be set to the Open
 .. code-block:: xml
    :linenos:
 
-   <relatedIdentifier relatedIdentifierType="AOC" relationType="IsRelevanTo">info:eu-repo/OAC/EGI</relatedIdentifier>
+   <relatedIdentifier relatedIdentifierType="AOC" relationType="IsRelevanTo">
+   				info:eu-repo/OAC/EGI
+   </relatedIdentifier>
