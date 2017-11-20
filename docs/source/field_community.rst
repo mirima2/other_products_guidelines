@@ -15,7 +15,7 @@ Identifiers of the community for which the research product is of interest.
 15.1 type (M)
 -------------------
 
-The type of the related identifier is the new type OAC (OpenAIRE community)
+The type of the related identifier is the new OpenAIRE type OAC (OpenAIRE community)
 
 15.2 relation (M)
 ------------------
@@ -28,5 +28,5 @@ Since we are talking about a community, the relationship mast be set to the Open
    :linenos:
 
    <relatedIdentifier relatedIdentifierType="AOC" relationType="IsRelevanTo">
-   				info:eu-repo/OAC/EGI
+   		info:eu-repo/OAC/EGI
    </relatedIdentifier>

@@ -56,7 +56,5 @@ The URI of the license (occurrences: 0-1).
 
   
   <rights rightsURI=”info:eu-repo/semantics/openAccess”> Open </rights>
-   
-
   <rights rightsURI=”info:eu-repo/semantics/openAccess” />
 
