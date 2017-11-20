@@ -19,3 +19,9 @@ This element contains the name of the research product repository.
    <publisher>
      BioVel
    </publisher>
+
+
+..code-block:: xml   
+  <publisher>
+     protocols.io
+   </publisher>

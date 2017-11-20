@@ -19,10 +19,10 @@ Provide a rights management statement for the resource or reference a service pr
 
    *Mandatory* property in OpenAIRE instead of optional in DataCite.
 
-   OpenAIRE uses this property to explicit declare the access right of the resource via :ref:`d:rightsuri`. 
+   OpenAIRE uses this property to explicit declare the access right of the resource via :ref:`d:rightsuriac`. 
 
 
-.. _d:rightsuri:
+.. _d:rightsuriac:
 
 18.1 rightsURI (M)
 -------------------

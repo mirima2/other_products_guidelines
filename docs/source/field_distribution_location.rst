@@ -7,7 +7,7 @@
 
 ``datacite:alternateIdentifier``
 
-URL of the web location from which the research product can be directly downloaded 
+URL of the web location from which the research product can be directly downloaded. 
 When the distribution location is specified the alternateIdentifierType attribute must be set to the OpenAIRE term DistributionLocation.
 
 Do Not Confuse With
