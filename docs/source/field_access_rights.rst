@@ -50,10 +50,8 @@ The URI of the license (occurrences: 0-1).
 
 **Examples**
 
-
 .. code-block:: xml
    :linenos:
 
-
-  <rights rightsURI=”info:eu-repo/semantics/openAccess” />
+   <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
 
