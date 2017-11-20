@@ -62,7 +62,7 @@ Title of the award
    		<awardTitle>
    			On the applications of the fastFourier transform 
    		</awardTitle>
-   </findingReference>
+   </fundingReference>
 
 
    
