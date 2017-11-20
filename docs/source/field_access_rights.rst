@@ -54,7 +54,6 @@ The URI of the license (occurrences: 0-1).
 .. code-block:: xml
    :linenos:
 
-  
-  <rights rightsURI=”info:eu-repo/semantics/openAccess”> Open </rights>
+
   <rights rightsURI=”info:eu-repo/semantics/openAccess” />
 
