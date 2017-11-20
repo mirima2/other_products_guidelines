@@ -10,6 +10,8 @@ orientation for repository managers to define and implement their local
 management policies according to the requirements of the OpenAIRE - Open Access
 Infrastructure for Research in Europe. These guidelines are intended to provide indications on how to cite ORPs products. 
 
+By implementing these Guidelines, repository managers will enable authors to incorporate their research product into the OpenAIRE infrastructure for discoverability and utilizing value-added services provided by the OpenAIRE portal.
+
 The Guidelines take inspiration from DataCite, on the side of citation metadata, and from the OpenMinTed SHARE-OMTD software guidelines, available at https://guidelines.openminted.eu/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.html 
 
 
