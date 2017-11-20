@@ -1,6 +1,6 @@
 .. _oas:relation:
 
-15. RelatedIdentifier (O)
+15. RelatedIdentifier (R)
 --------------------------
 --------------------------
 

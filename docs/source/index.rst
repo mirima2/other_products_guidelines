@@ -1,8 +1,8 @@
-######################################################
-OpenAIRE Guidelines for Software Repository Managers
-######################################################
+##########################################################################
+OpenAIRE Guidelines for Other Research Products (ORP) Repository Managers
+##########################################################################
 
-These guidelines describe the application profile for Software Repository managers to be compatible with OpenAIRE.
+These guidelines describe the application profile for ORPs Repository managers to be compatible with OpenAIRE.
 
 
 .. toctree::

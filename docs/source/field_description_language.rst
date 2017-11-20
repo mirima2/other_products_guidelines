@@ -6,7 +6,7 @@
 
 ``datacite:language``
 
-The language of the metadata.
+The language of the description field.
 
 **Allowed values, examples, other constraints**
 

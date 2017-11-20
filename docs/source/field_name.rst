@@ -5,7 +5,7 @@
 
 ``datacite:title``
 
-The name of the software.
+The name of the research artefact.
 
 **Example**
 

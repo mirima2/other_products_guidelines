@@ -12,7 +12,7 @@ The type of the description (occurrences: 1)
 
 **Usage Instruction**
 
-This element is used for a textual description of what the software does. The descriptionType must be set to the DataCite term "Abstract".
+This element is used for a textual description of what the research product does. The descriptionType must be set to the DataCite term "Abstract".
 
 **Example**
 
@@ -20,7 +20,7 @@ This element is used for a textual description of what the software does. The de
    :linenos:
 
    <description descriptionType="Abstract">
-     Computation of Fast Fourier Transform 
+     Taverna workflow for the pre-processing of brain images in Nifti-1 format. Pre-processing tasks performed by the workflow are: denoising and inhomogeneity correction.
    </description>
 
    

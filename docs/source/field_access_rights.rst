@@ -1,5 +1,3 @@
-.. include:: replacements.rst
-
 .. _oas:accessRights:
 
 18. Access Rights (M)

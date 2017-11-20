@@ -6,7 +6,7 @@
 
 ``datacite:description``
 
-This element is used to specify which is the tool/service that can execute the software.
+This element is used to specify which is the tool/service that can execute the research product.
 
 21.1 type (M)
 -------------------
@@ -23,7 +23,7 @@ Specifies the kind of information presented in the element (occurrences: 1)
    :linenos:
 
    <description descriptionType="TechnicalInfo">
-     R Studio
+     Taverna Workbench
    </description>
 
    

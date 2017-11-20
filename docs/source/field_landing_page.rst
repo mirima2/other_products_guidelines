@@ -6,7 +6,7 @@
 
 ``datacite:alternateIdentifier``
 
-URL to the web page where the software is described and can possibly be downloaded.
+URL to the web page where the research product is described and can possibly be downloaded.
 When the landing page is specified the alternateIdentifierType attribute must be set to the OpenAIRE term LandingPage
 
 Do Not Confuse With
@@ -20,7 +20,7 @@ Do Not Confuse With
    :linenos:
 
    <alternateIdentifier alternateIdentifierType = "LandingPage">
-   		http://my_landing_page.eu
+   		https://www.myexperiment.org/workflows/my_workflow
    </alternateIdentifier>
 
 

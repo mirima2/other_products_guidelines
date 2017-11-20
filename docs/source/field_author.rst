@@ -5,7 +5,7 @@
 
 ``datacite:creator``
 
-The authors of the software in priority order. May be a corporate/institutional or personal name.
+The authors of the research artifact in priority order. May be a corporate/institutional or personal name.
 
 .. _datacite:creator_creatorName:
 

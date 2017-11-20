@@ -1,13 +1,13 @@
 
-.. _oas:programmingLanguage:
+.. _datacite:format:
 
-16. Programming Language (R)
+16. Format (O)
 ----------------------------
 ----------------------------
 
 ``datacite:format``
 
-Programming language in which the software is implemented. 
+Format in which the research product is provided. 
 
 **Allowed values, examples, other constraints**
 
@@ -20,5 +20,5 @@ Free text.
    :linenos:
 
    <format>
-     Java 8
+     Docker Image
    </format>

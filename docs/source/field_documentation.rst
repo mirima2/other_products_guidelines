@@ -6,7 +6,7 @@
 
 ``datacite:relatedIdentifier``
 
-A resource that provides useful information about the software to the end-users, such as execution tips, FAQs, help forums, etc.
+A resource that provides useful information about the research product to the end-users, such as FAQs, help forums, etc.
 
 14.1 type (M)
 -------------------
@@ -36,7 +36,7 @@ The type of the related identifier
 14.2 relation (M)
 ------------------
 
-The relation that binds the software and the provided documentation. When the documentation element is provided the relationType attribute must be set to the DataCite term IsDocumentedBy
+The relation that binds the research product and the provided documentation. When the documentation element is provided the relationType attribute must be set to the DataCite term IsDocumentedBy
 
 
 **Example**

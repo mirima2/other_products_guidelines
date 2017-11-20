@@ -15,7 +15,7 @@ OpenAIRE-Field                           Metadata Element
 :ref:`oas:contactGroup`                      datacite:contributor          
 :ref:`oas:name`                              datacite:title   
 :ref:`oas:repository`                        datacite:publisher       
-:ref:`oas:softwareType`                      datacite:resourceType         
+:ref:`oas:type`                              datacite:resourceType         
 :ref:`datacite:subject`                      datacite:subject                   
 :ref:`oas:releaseDate`                       datacite:date
 :ref:`oas:descriptionLanguage`               datacite:language                       
@@ -24,14 +24,13 @@ OpenAIRE-Field                           Metadata Element
 :ref:`oas:distributionLocation`              datacite:alternateIdentifier
 :ref:`oas:documentation`                     datacite:relatedIdentifier                     
 :ref:`oas:relation`                          datacite:relatedIdentifier
-:ref:`oas:programmingLanguage`               datacite:format
+:ref:`datacite:format`                       datacite:format
 :ref:`oas:versionNumber`                     datacite:version
 :ref:`oas:accessRights`                      datacite:rights
 :ref:`oas:licenseCondition`                  datacite:rights        
 :ref:`datacite:description`                  datacite:description        
 :ref:`oas:tool`                              datacite:description
 :ref:`datacite:fundingReference`             datacite:fundingReference
-:ref:`oas:distributionForm`                  datacite:description
 ======================================== ============================= 
 
 

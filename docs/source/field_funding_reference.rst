@@ -5,7 +5,7 @@
 
 ``datacite:fundingReference``
 
-Information about the funding entity that provided support to the development of the software.
+Information about the funding entity that provided support to the development of the research product.
 
 22.1 Funder name (M)
 -------------------

@@ -1,15 +1,15 @@
 .. _oas:repository:
 
-6. Repository (M)
+6. Repository (R)
 ====================
 
 ``datacite:publisher``
 
-A software repository is a storage location from which software can be retrieved.
+A repository is a storage location from which the research product can be retrieved.
 
 **Usage Instruction**
 
-This element contains the name of the software repository.
+This element contains the name of the research product repository.
 
 **Example**
 
@@ -17,7 +17,10 @@ This element contains the name of the software repository.
    :linenos:
 
    <publisher>
-     GitHub
+     BioVel
    </publisher>
 
    
+  <publisher>
+     protocols.io
+   </publisher>

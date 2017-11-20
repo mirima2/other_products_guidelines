@@ -57,7 +57,7 @@ The organizational or institutional affiliation of the contributor.
 
 **Usage Instruction**
 
-This element is used for providing information about the contact person for the software. The contributorType must be set to the datacite term "ContactPerson". The information about the given name and family name for the contact person can be specified in the fields givenName and familyName
+This element is used for providing information about the contact person for the researcdh product. The contributorType must be set to the datacite term "ContactPerson". The information about the given name and family name for the contact person can be specified in the fields givenName and familyName
 
 **Example**
 
