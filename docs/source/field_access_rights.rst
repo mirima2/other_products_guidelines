@@ -53,5 +53,5 @@ The URI of the license (occurrences: 0-1).
 .. code-block:: xml
    :linenos:
 
-   <dc:rights>http://purl.org/coar/access_right/c_abf2</dc:rights>
+   <rights rightsURI="http://purl.org/coar/access_right/c_abf2"> Open Access </rights>
 
