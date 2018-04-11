@@ -5,7 +5,7 @@
 --------------------
 ``datacite:date``
 
-The release date of the software.
+The release date of the product.
 
 **Allowed values, examples, other constraints**
 
