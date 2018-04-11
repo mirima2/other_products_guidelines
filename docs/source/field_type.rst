@@ -19,12 +19,9 @@ Since we are describing ORPs resources, the resourceTypeGeneral must be set to o
 
 *Controlled list values (DataCite)*
 
-* Audiovisual
-* Image
 * InteractiveResource
 * Model
 * Service
-* Sound
 * Workflow
 * Other
  
