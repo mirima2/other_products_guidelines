@@ -16,9 +16,6 @@ Exposure and visibility of content from a range of European repositories will be
 
 The Guidelines take inspiration from DataCite, on the side of citation metadata, and from the `OpenMinTed SHARE-OMTD <https://guidelines.openminted.eu/guidelines_for_providers_of_sw_resources/recommended_schema_for_sw_resources.html>`_ software guidelines. 
 
-Examples of valid metadata records
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- http://data.d4science.org/workspace-explorer-app?folderId=WDVNdi82TFZnb2RoR2gyQlFiSitEVjVUcDNoeTIrWVg2VVVxVGllQkhjRVh0OFRtdkhXOTZnWTJXVjRpa3U4dQ
 
 Acknowledgements & Contributors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
